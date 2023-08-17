@@ -1,0 +1,15 @@
+Table{
+    fornt font-family:;;
+}
+td,th{
+    border: 1px solid #000;
+
+}
+h1,p,span,strong{
+  border: 1px solid red; 
+}
+#title {
+background: blueviolet;
+color: blanchedalmond;
+padding: 10px;
+}

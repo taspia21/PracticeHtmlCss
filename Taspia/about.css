@@ -1,0 +1,63 @@
+  body{
+    background-color: rgb(243, 239, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5em;
+  } 
+img{
+    max width: 100%;
+}
+div img{
+    max-width: 100%;
+}
+header{
+    background:#f4cad1 ;
+    padding: 20px;
+}
+header img{
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+#main_menu{
+    margin-top: 20px;
+    list-style: none;
+    text-align: center;
+}
+#main_menu li{
+    display: inline-block;
+    margin: 0 5px;
+}
+#main_menu a{
+    background-color: rgb(220, 10, 111);
+    color: rgb(232, 240, 247);
+    padding: 5px 15px;
+    text-decoration: none;
+}
+section{
+    background-color: #c8d6ea;
+    display: flex;
+}
+div{
+    padding: 20px;
+    width: 60%;
+}
+div h1{
+    font-size: 20px;
+}
+aside{
+    padding: 20px;
+    width: 40%;
+}
+aside ui{
+   margin-left: 0px; 
+   margin-top: 20px;
+}
+footer{
+    background-color: rgb(220, 195, 164);
+    padding: 10px;
+    text-align: center;
+}
+footer p{
+    font-size: 12px;
+}
